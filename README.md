@@ -1,9 +1,5 @@
 🛡️ Anomaly‑Based Intrusion Detection Using Random Forest
-Internship Project — Deltaware Solution Private Limited (India)
-Intern: Samuel N’guessan
-Duration: July 5th – August 5th
 This project implements a supervised machine learning Intrusion Detection System (IDS) using the UNSW‑NB15 dataset. The goal is to accurately classify network traffic as normal or malicious using a Random Forest classifier, following a complete pipeline from preprocessing to evaluation and visualization.
-This work was completed during my internship at Deltaware Solution Pvt. Ltd., where I gained hands‑on experience in cybersecurity analytics and machine learning for intrusion detection.
 
 📌 Project Overview
 The IDS is built using a Random Forest model trained on the UNSW‑NB15 dataset.
@@ -87,7 +83,7 @@ These features strongly influence anomaly detection and help distinguish malicio
 
 
 🏁 Conclusion
-This internship project strengthened my skills in machine learning, data preprocessing, and cybersecurity analytics.
+This project strengthened my skills in machine learning, data preprocessing, and cybersecurity analytics.
 The Random Forest‑based IDS shows strong performance and serves as a solid foundation for future enhancements such as:
 • 	Hyperparameter tuning
 • 	Real‑time detection
